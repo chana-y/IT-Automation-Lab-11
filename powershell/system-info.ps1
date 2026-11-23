@@ -5,8 +5,8 @@
 # ==========================================
 
 # Student Information
-# Change the name below to your full name.
-$StudentName = "Your Name Here"
+# Student: Chanel Young
+$StudentName = "Chanel Young"
 
 # Display student information
 Write-Host "=================================="

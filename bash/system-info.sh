@@ -7,8 +7,8 @@
 # ==========================================
 
 # Student Information
-# Change the name below to your full name.
-STUDENT_NAME="Your Name Here"
+# Student: Chanel Young
+STUDENT_NAME="Chanel Young"
 
 # Display student information
 echo "=================================="
